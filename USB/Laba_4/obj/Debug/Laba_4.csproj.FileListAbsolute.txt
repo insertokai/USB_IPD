@@ -1,0 +1,16 @@
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\Laba_4.exe.config
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\Laba_4.exe
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\Laba_4.pdb
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\Chimp.Logging.Core.dll
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\MediaDevices.dll
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\UsbEject.dll
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\Chimp.Logging.Core.xml
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\MediaDevices.xml
+C:\Users\Miku\Downloads\USB-master\Laba_4\bin\Debug\UsbEject.xml
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.csprojResolveAssemblyReference.cache
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.USBView.resources
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.Properties.Resources.resources
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.csproj.GenerateResource.Cache
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.exe
+C:\Users\Miku\Downloads\USB-master\Laba_4\obj\Debug\Laba_4.pdb
